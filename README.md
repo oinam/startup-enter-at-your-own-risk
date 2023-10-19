@@ -9,6 +9,12 @@
 * Images in blog post and articles
 * [insert your own choice]
 
+## Updates
+
+In the wake of advancements in Generative AI and prompt-based image creation, my work may seem somewhat repetitive. However, it continues to be the simplest yet impactful representation of a poster symbolizing the Startup universe. ;-)
+
+I've tried a few AI-generated imagery and are included in the `ai` folder. Have fun.
+
 ### License
 
 The MIT License (MIT)
@@ -32,7 +38,6 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ### Feedback/Updates
 
-Feel free to push your additions, changes, variants.
-Let me know.
+Feel free to push your additions, changes, variants. Let me know.
 
-[Brajeshwar](http://brajeshwar.me/)
+[Brajeshwar](http://brajeshwar.com/)
